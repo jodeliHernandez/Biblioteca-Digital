@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-xxxhdpi_ic_libro_app_round.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-xxxhdpi/ic_libro_app_round.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable_ic_regresar.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable/ic_regresar.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/layout_activity_agregar_categoria.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/layout/activity_agregar_categoria.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable_imagen_bienvenida.png.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable/imagen_bienvenida.png"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-xhdpi_ic_libro_app_round.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-xhdpi/ic_libro_app_round.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-xhdpi_ic_libro_app.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-xhdpi/ic_libro_app.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable_ic_adjuntar_pdf.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable/ic_adjuntar_pdf.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable-night_ic_regresar.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable-night/ic_regresar.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable_ic_eliminar_cat.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable/ic_eliminar_cat.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable_ic_buscar.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable/ic_buscar.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable-night_ic_mas_opciones.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable-night/ic_mas_opciones.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-hdpi_ic_libro_app.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-hdpi/ic_libro_app.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable_ic_abajo.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable/ic_abajo.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-hdpi_ic_libro_app_foreground.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-hdpi/ic_libro_app_foreground.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-anydpi-v26_ic_libro_app.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-anydpi-v26/ic_libro_app.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/layout_activity_bienvenida.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/layout/activity_bienvenida.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/layout_item_categoria_admin.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/layout/item_categoria_admin.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable_forma_edittext.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable/forma_edittext.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable_ic_pdf.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable/ic_pdf.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/layout_item_libro_admin.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/layout/item_libro_admin.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable-night_ic_buscar.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable-night/ic_buscar.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-mdpi_ic_libro_app.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-mdpi/ic_libro_app.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-xxxhdpi_ic_libro_app_foreground.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-xxxhdpi/ic_libro_app_foreground.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable_ic_dashboard.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable/ic_dashboard.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-xhdpi_ic_libro_app_foreground.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-xhdpi/ic_libro_app_foreground.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-xxxhdpi_ic_libro_app.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-xxxhdpi/ic_libro_app.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable_agregar_libro.png.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable/agregar_libro.png"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable-night_ic_eliminar_cat.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable-night/ic_eliminar_cat.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-hdpi_ic_libro_app_round.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-hdpi/ic_libro_app_round.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable-night_ic_cuenta.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable-night/ic_cuenta.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-mdpi_ic_libro_app_round.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-mdpi/ic_libro_app_round.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/layout_activity_elegir_rol.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/layout/activity_elegir_rol.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable-night_ic_cerrar_sesion.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable-night/ic_cerrar_sesion.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-xxhdpi_ic_libro_app.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-xxhdpi/ic_libro_app.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-mdpi_ic_libro_app_foreground.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-mdpi/ic_libro_app_foreground.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable-night_ic_categoria.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable-night/ic_categoria.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/layout_activity_registrar_admin.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/layout/activity_registrar_admin.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/menu_menu_bottom_admin.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/menu/menu_bottom_admin.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable-night_ic_siguiente.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable-night/ic_siguiente.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable-night_ic_dashboard.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable-night/ic_dashboard.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable_ic_siguiente.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable/ic_siguiente.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable_ic_cuenta.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable/ic_cuenta.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/layout_activity_login_admin.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/layout/activity_login_admin.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/xml_backup_rules.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable-night_ic_pdf.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable-night/ic_pdf.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/layout_activity_agregar_pdf.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/layout/activity_agregar_pdf.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/layout_fragment_admin_dashboard.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/layout/fragment_admin_dashboard.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable-night_ic_adjuntar_pdf.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable-night/ic_adjuntar_pdf.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable_ic_categoria.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable/ic_categoria.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable_ic_mas_opciones.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable/ic_mas_opciones.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/layout_activity_main.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-xxhdpi_ic_libro_app_foreground.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-xxhdpi/ic_libro_app_foreground.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable_ic_cerrar_sesion.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable/ic_cerrar_sesion.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-xxhdpi_ic_libro_app_round.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-xxhdpi/ic_libro_app_round.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/layout_fragment_admin_cuenta.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/layout/fragment_admin_cuenta.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-anydpi-v26_ic_libro_app_round.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-anydpi-v26/ic_libro_app_round.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/layout_activity_lista_pdf_admin.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/layout/activity_lista_pdf_admin.xml"
+    },
+    {
+        "merged": "com.JojanserCorporan.bibliotecadigital.app-debug-5:/drawable-night_ic_abajo.xml.flat",
+        "source": "com.JojanserCorporan.bibliotecadigital.app-main-7:/drawable-night/ic_abajo.xml"
+    }
+]

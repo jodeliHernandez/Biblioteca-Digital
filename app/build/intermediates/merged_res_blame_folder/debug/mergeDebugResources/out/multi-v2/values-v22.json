@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.JojanserCorporan.bibliotecadigital.app-mergeDebugResources-3:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jojanser Corporan\\.gradle\\caches\\8.13\\transforms\\9449e52d2d44f4a96b260f4e269d4bc3\\transformed\\appcompat-1.7.1\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}

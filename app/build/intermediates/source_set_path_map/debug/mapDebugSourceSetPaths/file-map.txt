@@ -1,0 +1,48 @@
+com.JojanserCorporan.bibliotecadigital.app-pngs-0 C:\AndroidProjec\app\build\generated\res\pngs\debug
+com.JojanserCorporan.bibliotecadigital.app-res-1 C:\AndroidProjec\app\build\generated\res\processDebugGoogleServices
+com.JojanserCorporan.bibliotecadigital.app-resValues-2 C:\AndroidProjec\app\build\generated\res\resValues\debug
+com.JojanserCorporan.bibliotecadigital.app-packageDebugResources-3 C:\AndroidProjec\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.JojanserCorporan.bibliotecadigital.app-packageDebugResources-4 C:\AndroidProjec\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.JojanserCorporan.bibliotecadigital.app-debug-5 C:\AndroidProjec\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.JojanserCorporan.bibliotecadigital.app-debug-6 C:\AndroidProjec\app\src\debug\res
+com.JojanserCorporan.bibliotecadigital.app-main-7 C:\AndroidProjec\app\src\main\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-tracing-1.2.0-8 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\0235529c738556d661595c069f99971f\transformed\jetified-tracing-1.2.0\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-play-services-basement-18.4.0-9 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\068b3cbfa9ecc845fa495df132241f2f\transformed\jetified-play-services-basement-18.4.0\res
+com.JojanserCorporan.bibliotecadigital.app-coordinatorlayout-1.1.0-10 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\2026495d5c3c5be6edcab083282ab6ca\transformed\coordinatorlayout-1.1.0\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-datastore-preferences-release-11 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\27b43e3b29a4a8364d5fbbed51c7b1c4\transformed\jetified-datastore-preferences-release\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-appcompat-resources-1.7.1-12 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\2cc2ed6dadcf35b47625a25dac45469e\transformed\jetified-appcompat-resources-1.7.1\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-activity-1.10.1-13 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\3f89d9c8b28fd737f53babd72a52b9c1\transformed\jetified-activity-1.10.1\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-startup-runtime-1.1.1-14 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\417cce98f846946a6d36c7429c0be62f\transformed\jetified-startup-runtime-1.1.1\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-firebase-common-22.0.0-15 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\49b0dd308b9c7ccc0a395f33d2b5cbea\transformed\jetified-firebase-common-22.0.0\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-emoji2-1.3.0-16 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\4bc8be170a737f7bf2b561f24cfb43a5\transformed\jetified-emoji2-1.3.0\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-credentials-play-services-auth-1.2.0-rc01-17 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\50e9022b82a119e7dc8c89d9887e6902\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+com.JojanserCorporan.bibliotecadigital.app-material-1.12.0-18 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\5794c15253c08add857b556493dd7919\transformed\material-1.12.0\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-19 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\590b4fa3dea97da1c4a74379b9407b83\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-credentials-1.2.0-rc01-20 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\5be161030ed0ee79fe1fe5cc26349b91\transformed\jetified-credentials-1.2.0-rc01\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-play-services-auth-20.7.0-21 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\5d9c6b131d0c12e22b8af6343fcbead6\transformed\jetified-play-services-auth-20.7.0\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-datastore-release-22 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\61188955343d60c5652dc402cff771c7\transformed\jetified-datastore-release\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-profileinstaller-1.4.0-23 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\6321ea20c971d2af1a18c9c138aae2f7\transformed\jetified-profileinstaller-1.4.0\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-viewpager2-1.0.0-24 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\66ef0325ccaaec36b769e0ec989ca3e5\transformed\jetified-viewpager2-1.0.0\res
+com.JojanserCorporan.bibliotecadigital.app-constraintlayout-2.2.1-25 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\6ef89b95b55de42097339945554dd492\transformed\constraintlayout-2.2.1\res
+com.JojanserCorporan.bibliotecadigital.app-recyclerview-1.1.0-26 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\7d3461a74a1825c2e324ef64fbd127b4\transformed\recyclerview-1.1.0\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-core-ktx-1.16.0-27 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\888baabccb51b0f58aa7f3a8b7807391\transformed\jetified-core-ktx-1.16.0\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-annotation-experimental-1.4.1-28 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\8896242806f336232877895abaeb6a88\transformed\jetified-annotation-experimental-1.4.1\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-savedstate-1.2.1-29 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\9310a90271a3a1aa867e3a705ff8da37\transformed\jetified-savedstate-1.2.1\res
+com.JojanserCorporan.bibliotecadigital.app-appcompat-1.7.1-30 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\9449e52d2d44f4a96b260f4e269d4bc3\transformed\appcompat-1.7.1\res
+com.JojanserCorporan.bibliotecadigital.app-drawerlayout-1.1.1-31 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\98eae6a079d50b9cbf44cef8810a7f00\transformed\drawerlayout-1.1.1\res
+com.JojanserCorporan.bibliotecadigital.app-fragment-1.5.4-32 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\9c48464a98fac563d09ac11d5241a0eb\transformed\fragment-1.5.4\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-emoji2-views-helper-1.3.0-33 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\a01e6d18bbca5123c77fdcee948eb609\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.JojanserCorporan.bibliotecadigital.app-transition-1.5.0-34 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\a9c5916a60afebd8edbe1d034f84f94c\transformed\transition-1.5.0\res
+com.JojanserCorporan.bibliotecadigital.app-core-1.16.0-35 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\aa06e876f3bebed7163207b85305f3ae\transformed\core-1.16.0\res
+com.JojanserCorporan.bibliotecadigital.app-cardview-1.0.0-36 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\b3280ca0c35814a96c1e00ed18ef5f3d\transformed\cardview-1.0.0\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-lifecycle-process-2.6.2-37 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\c7c00f2db12424b2f2673107d52cd232\transformed\jetified-lifecycle-process-2.6.2\res
+com.JojanserCorporan.bibliotecadigital.app-core-runtime-2.2.0-38 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\caf9f5599b05de6eef0691ae217d52c4\transformed\core-runtime-2.2.0\res
+com.JojanserCorporan.bibliotecadigital.app-lifecycle-livedata-core-2.6.2-39 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\caffa903b722d6615725237a913161d7\transformed\lifecycle-livedata-core-2.6.2\res
+com.JojanserCorporan.bibliotecadigital.app-browser-1.4.0-40 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\cda33832cffddfd6dd5225472ba395e5\transformed\browser-1.4.0\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-core-common-2.0.3-41 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\d61ca7d63fa98e9b07e9ab5c64b1ed41\transformed\jetified-core-common-2.0.3\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-datastore-core-release-42 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\d883afe61aad6cdc3abcd05ad1c5027d\transformed\jetified-datastore-core-release\res
+com.JojanserCorporan.bibliotecadigital.app-lifecycle-runtime-2.6.2-43 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\db99d298a80eaf07f93e84b3dc0ce0e0\transformed\lifecycle-runtime-2.6.2\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-core-viewtree-1.0.0-44 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\e23c95f792d040b248d9042a46a48838\transformed\jetified-core-viewtree-1.0.0\res
+com.JojanserCorporan.bibliotecadigital.app-lifecycle-viewmodel-2.6.2-45 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\ec8577e206c4d75ec109c0a9cbe75156\transformed\lifecycle-viewmodel-2.6.2\res
+com.JojanserCorporan.bibliotecadigital.app-jetified-play-services-base-18.1.0-46 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\ee03c2bbaab876e296b8fd16b70c8308\transformed\jetified-play-services-base-18.1.0\res
+com.JojanserCorporan.bibliotecadigital.app-lifecycle-livedata-2.6.2-47 C:\Users\Jojanser Corporan\.gradle\caches\8.13\transforms\f1bd5a0fb398fd85b8485e2a8156b44a\transformed\lifecycle-livedata-2.6.2\res
