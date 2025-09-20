@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991924685567",
+    "project_id": "bibliotecadigital-cdc25",
+    "storage_bucket": "bibliotecadigital-cdc25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991924685567:android:630ff47048e008738d5aca",
+        "android_client_info": {
+          "package_name": "com.JojanserCorporan.bibliotecadigital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq9_LGfprqdmqXVX5E8vwMRUsxgMH-yZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
